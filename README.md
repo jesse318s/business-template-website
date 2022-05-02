@@ -1,2 +1,2 @@
 # business-website-template
-Company website for avertisement and customer information.
+Company website for advertisement and customer information.
